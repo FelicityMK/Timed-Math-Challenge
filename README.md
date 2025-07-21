@@ -1,6 +1,8 @@
 
 # Timed Math Challenge ⏱️➕➖✖️
 
+A Python game that tests your mental math skills with a 10-question timed challenge.
+
 A fun Python game to test your mental math skills under pressure. You'll be given 10 randomly generated math problems to solve as quickly and accurately as possible.
 
 ## Features
