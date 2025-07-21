@@ -16,5 +16,9 @@ A fun Python game to test your mental math skills under pressure. You'll be give
 2. Clone this repo or download the `.py` file.
 3. In your terminal, run:
 
+##Demo
+   ![Timed Math Challenge Demo](demo.png)
+
+
 ```bash
 python timed_math_challenge.py
